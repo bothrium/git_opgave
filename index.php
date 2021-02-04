@@ -28,6 +28,6 @@
 <body>
 
 <!-- Her skal sidens indhold ligge -->
-Hej Brith kan du se hvad jeg laver
+
 </body>
 </html>
