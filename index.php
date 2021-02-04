@@ -29,5 +29,9 @@
 
 <h1>Brith var her!</h1>
 
+
+
+<h2>Der sad 2 sandkorn i en ørken.</h2>
+<h2> Den en sagde til den anden "jeg tror vi er omringet"</h2>
 </body>
 </html>
